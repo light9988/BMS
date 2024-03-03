@@ -2,6 +2,14 @@
 
 The E-Commerce Business Management Software is a Java-based application designed to facilitate the management of an e-commerce business. It provides role-based access controls and implements essential features for user registration, login, product management, order management, inventory management, and customer management. The application utilizes the Swing framework for front-end design, offering dynamic content based on user roles and page functions.
 
+## If this is helpful to you, plase kindly support me here: 
+
+<p align="center">
+  <a href="https://venmo.com/u/lightandlight">
+    <img src="https://img.shields.io/badge/Donate-Venmo-ff69b4.svg" alt="Donate" width="200" height="40">
+  </a>
+</p>
+
 ### Features
 
 - **User Registration**: Allows users to register for an account with the system, providing necessary details such as username, email, and password.
