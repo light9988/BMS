@@ -5,7 +5,7 @@ The E-Commerce Business Management Software is a Java-based application designed
 ## If this is helpful to you, plase kindly support me here: 
 
 <p align="center">
-  <a href="https://venmo.com/u/lightandlight" style="color: #ff69b4;">
+  <a href="https://venmo.com/u/lightandlight" >
     <img src="https://img.shields.io/badge/Donate-Venmo-ff69b4.svg" alt="Donate" width="200" height="40">
   </a>
 </p>
