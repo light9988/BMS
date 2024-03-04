@@ -6,7 +6,7 @@ The E-Commerce Business Management Software is a Java-based application designed
 
 <p align="center">
   <a href="https://venmo.com/u/lightandlight">
-    <img src="https://img.shields.io/badge/Donate-Venmo-ff69b4.svg" alt="Donate" width="200" height="50">
+    <img src="https://img.shields.io/badge/Donate-Venmo-ff69b4.svg" alt="Donate" width="200" height="40">
   </a>
 </p>
 
